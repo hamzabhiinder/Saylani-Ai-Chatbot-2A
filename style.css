@@ -1,0 +1,47 @@
+*{
+    margin: auto;
+    padding-left: 0%;
+}
+
+
+.right{
+    padding-top: 100px ;
+    float: right;
+    width: 70%;
+     margin: auto; 
+    
+     padding-left: 20px;
+
+}
+
+
+.left{
+    padding-top: 50px ;
+
+    padding-left: 20px;
+    color: white;
+    float: left;
+    /* display: inline-flex; */
+    background-color: grey;
+    height: 800px;
+    width: 23%;
+     margin: auto; 
+    
+
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
+    
+}
+.main{
+    width: 80%;
+    margin: auto;  
+    background-color: rgba(128, 128, 128, 0.514);
+    
+
+    
+
+}
